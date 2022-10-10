@@ -1,0 +1,20 @@
+{
+    "package": {
+        "downloadUrlList": [
+            "https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_stable.apk"
+        ]
+    },
+
+    "16.04": {
+        "versionCode": 794,
+        "changelog": ["Fixed cases when watch history is not working"],
+        "changelog_ru": ["Исправлены случаи, когда история просмотров не работает"],
+        "changelog_uk": ["Виправлені випадки, коли історія переглядів не працює"]
+    },
+    "15.81": {
+        "versionCode": 771,
+        "changelog": ["Contains cumulative changes from the beta with same version number. All bugs transferred too)", "Updates released less frequently than in the beta", "All metrics (like crashlytics in the beta) has been removed", "App name has been shortened (SmartTube) and icon changed to red one", "Pure chinese firmware support (where the beta can't be installed)"],
+        "changelog_ru": ["Содержит накопленные изменения из беты с тем же номером версии. Все баги также перенесены)", "Обновляется гораздо реже, чем бета", "Все метрики (напр. в бете есть crashlytics) удалены", "Название приложения было сокращено (SmartTube), а иконка изменена на красную", "Поддержка чисто китайских прошивок (где бету поставить не получится)"],
+        "changelog_uk": ["Містить накопичені зміни з бети з тим же номером версії. Усі баги з бети також присутні)", "Оновлюється значно рідше, ніж бета", "Видалені усі системи стеження (напр. crashlytics у беті)", "Назва застосунку була скорочена (SmartTube), а іконка змінена на червону", "Підтримка суто китайських прошивок (де бету встановити неможливо)"]
+    }
+}
